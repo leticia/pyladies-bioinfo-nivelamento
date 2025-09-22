@@ -1,2 +1,2 @@
-# pyladies-bioinfo-nivelamento-
-Exercícios de nivelamento de Python - PyLadies Bioinfo 2025/2
+# Nivelamento - 2025/2 - PyLadies Bioinfo
+Exercícios de nivelamento de Python
